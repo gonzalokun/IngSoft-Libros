@@ -1,0 +1,18 @@
+
+INTERFAZ GRAFICA:
+    * LOGIN (-)
+    * PANTALLA PARA TODO LO DEMÁS:
+        * PANTALLA PRINCIPAL
+            * 2 LISTAS: UNA CON PRODUCTOS, UNA PA LA LISTA DEL CARRITO
+                * BOTONES DE: ADD TO CART, REMOVE FROM CART, CHECKOUT
+        * VENTANAS PARA ERRORES (-)
+        * VENTANAS PARA EL TICKET
+        
+            
+FUNCIONALIDAD:
+    * Listar nombres de los libros -> hay que cambiar como se guardan, quizá interese crear el objeto libro (?) 
+      o Modificamos directo el diccionario.
+    * El Ticket (?)
+      
+(-) = Está pero quizá la retocamos después
+(+) = Está terminada
